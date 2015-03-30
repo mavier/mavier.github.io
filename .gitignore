@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+_site/
+=======
+_site
+.sass-cache
+.DS_Store
+
+# Ignore the config file that's used for gh-pages.
+_config.gh-pages.yml
+>>>>>>> e54d374ca52e8f4dbd533eec9cf50ae6c6d4be2f
